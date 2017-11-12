@@ -1,0 +1,58 @@
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T03:42:40.013Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T03:42:41.000Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T03:42:41.000Z"}
+{"level":"info","message":"Loaded 1 modules","timestamp":"2017-11-12T03:42:41.000Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T03:42:41.031Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T03:42:41.031Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T03:42:41.031Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T03:42:41.031Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T03:42:41.031Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T03:42:41.116Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T03:44:54.338Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T03:44:55.575Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T03:44:55.577Z"}
+{"level":"info","message":"Loaded 1 modules","timestamp":"2017-11-12T03:44:55.579Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T03:44:55.640Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T03:44:55.641Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T03:44:55.642Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T03:44:55.646Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T03:44:55.650Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T03:44:55.758Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T03:55:46.810Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T03:55:47.627Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T03:55:47.627Z"}
+{"level":"info","message":"Loaded 1 modules","timestamp":"2017-11-12T03:55:47.627Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T03:55:47.660Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T03:55:47.660Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T03:55:47.660Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T03:55:47.660Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T03:55:47.660Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T03:55:47.738Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T04:08:49.969Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T04:08:50.828Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T04:08:50.831Z"}
+{"level":"info","message":"Loaded 1 modules","timestamp":"2017-11-12T04:08:50.832Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T04:08:50.864Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T04:08:50.865Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T04:08:50.866Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T04:08:50.868Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T04:08:50.871Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T04:08:50.953Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T04:18:20.546Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T04:18:21.494Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T04:18:21.494Z"}
+{"level":"info","message":"Loaded 1 modules","timestamp":"2017-11-12T04:18:21.494Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T04:18:21.525Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T04:18:21.525Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T04:18:21.525Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T04:18:21.525Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T04:18:21.525Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T04:18:21.609Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T04:21:13.038Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T04:21:13.871Z"}
+{"level":"info","message":"Loaded 1 modules","timestamp":"2017-11-12T04:21:13.871Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T04:21:13.971Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T04:22:40.984Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T04:22:42.217Z"}
+{"level":"info","message":"Loaded 1 modules","timestamp":"2017-11-12T04:22:42.218Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T04:22:42.374Z"}
