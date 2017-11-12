@@ -1,0 +1,17 @@
+{
+  "name": "vimbot",
+  "version": "1.0.0",
+  "description": "bot e procesamentos automatizados utilizado dentro da vimbo",
+  "main": "index.js",
+  "dependencies": {
+    "botpress": "1.x",
+    "botpress-web": "1.x",
+    "dotenv": "^4.0.0"
+  },
+  "scripts": {
+    "start": "botpress start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glauber Funez",
+  "license": "Botpress Proprietary License"
+}
